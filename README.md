@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matéo</h1>
 <h3 align="center">French computer science student from Annecy</h3>
 
-- 📫 How to reach me **mateo.martin@etu.univ-smb.fr** / **mateo.martin@students.salle.url.edu**
+- 📫 How to reach me **mateo.martin@etu.univ-smb.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
